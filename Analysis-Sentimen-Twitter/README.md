@@ -1,0 +1,1 @@
+Kodingan ini terinspirasi dari https://github.com/Mohitraj16/Twitter-Sentimental-Analysis/blob/master/Twitter_Sentiment_Analysis.ipynb
